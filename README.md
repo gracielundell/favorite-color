@@ -12,7 +12,7 @@ Clone this repository using your terminal into the location of your choice on yo
 - CSS
 - JavaScript
 - jQuery
--Bootstrap
+- Bootstrap
 
 ## License
 Copyright (c) 2016 by Gracie Lundell. This repositiry is under the MIT license.
